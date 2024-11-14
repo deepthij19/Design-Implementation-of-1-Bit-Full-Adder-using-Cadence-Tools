@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/200e1874-6513-423e-985b-db7e661a44f3)# Design-Implementation-of-1-Bit-Full-Adder-using-Cadence-Tools
+
 Ex No: 04     Design & Implementation of 1 Bit Full Adder Using Cadence EDA Tools   
 
 Aim:
